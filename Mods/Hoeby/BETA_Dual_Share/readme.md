@@ -1,3 +1,6 @@
+# &#x2B22; BETA HX0 Dual Share motor mount &#x2B22;
+<p align="center"><img width="750" src="assets/view.png"></p>
+
 The used pulleys specs are: <br>
 - Boring Diameter: 5mm <br>
 - Width: Fit Belt Width 15mm <br>
