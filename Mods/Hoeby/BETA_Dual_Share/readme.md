@@ -1,4 +1,5 @@
 # &#x2B22; BETA HX0 Dual Share motor mount &#x2B22;
+This is still beta version. Only the CAD is shared, that other HX0 users can help make it a final version <br>
 <p align="left"><img width="750" src="assets/view.png"></p>
 
 The used pulleys specs are: <br>
