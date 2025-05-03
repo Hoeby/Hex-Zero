@@ -1,4 +1,4 @@
-<a href="../readme.md">Back to home directory</a><br>
+<a href="..">Back to home directory</a><br>
 <br>
 Start by removing the top flange from the pulley <br>
 I used a adjustable-joint pliers to do this. Put it on the flange and bend the flange, it will pop of the pulley. <br>
